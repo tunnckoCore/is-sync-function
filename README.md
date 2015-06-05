@@ -34,6 +34,15 @@ isSyncFunction(JSON.parse) //=> true
 ```
 
 
+## Related
+- [always-callback](https://github.com/tunnckocore/always-callback#readme): Create callback api for given sync function. Guarantee that given function (sync or async, no matter) will always have callback api.
+- [is-async-function](https://github.com/tunnckocore/is-async-function#readme): Check that given function is async (callback) function or not. Trying to guess that based on check if `callback` or `cb` exists in function arguments.
+- [is-empty-function](https://github.com/tunnckoCore/is-empty-function#readme): Checks the given function (or fn.toString()) is with empty body - dont have body.
+- [is-hexcolor](https://github.com/tunnckocore/is-hexcolor#readme): Check that given value is valid hex color, using `hex-color-regex` - the best regex for matching hex color values
+- [is-ansi](https://github.com/tunnckocore/is-ansi#readme): Check that given string contain ANSI color codes, without CLI
+- [make-callback](https://github.com/tunnckocore/make-callback#readme): Make synchronous function to support callback api
+
+
 ## Contributing
 
 Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/tunnckoCore/is-sync-function/issues/new).  
