@@ -15,5 +15,16 @@
   "devDependencies": {
     "assertit": "^0.1.0"
   },
-  "keywords": []
+  "keywords": [
+    "check",
+    "control",
+    "controlflow",
+    "flow",
+    "function",
+    "hybrid",
+    "sync",
+    "synchronous",
+    "util",
+    "validate"
+  ]
 }
