@@ -1,6 +1,6 @@
 {
   "name": "is-sync-function",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Opposite of `is-async-function`. Check that given function is synchronous.",
   "repository": "tunnckoCore/is-sync-function",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
@@ -10,7 +10,7 @@
     "test": "standard && node test.js"
   },
   "dependencies": {
-    "is-async-function": "^1.0.0"
+    "is-async-function": "~1.0.0"
   },
   "devDependencies": {
     "assertit": "^0.1.0"
